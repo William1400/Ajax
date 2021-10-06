@@ -1,0 +1,41 @@
+body {
+
+    display: flex;
+    gap: 25px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+    height: auto;
+    background-color: #C0B3C7;
+}
+
+#author {
+    
+    font-size: 3em;
+    font-weight: bold;
+}
+
+#quote {
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1em;
+    font-weight: bolder;
+}
+
+#img {
+	
+    border-radius: 1em;
+    width: 400px;
+	height: 300px;
+}
+
+button {
+
+    font-weight: bold;
+    border-radius: 1em;
+    background-color: #FFE6F2;
+    cursor:pointer ;
+}
+
+   
